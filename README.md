@@ -12,3 +12,5 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-l
 http://www.programmerinterview.com/
 
 https://www.google.com/search?q=codeacademy&oq=codeaca&aqs=chrome.1.69i57j69i59.4495j0j4&sourceid=chrome&ie=UTF-8
+
+https://www.pluralsight.com/blog/software-development/best-developer-certifications
