@@ -5,3 +5,4 @@
 5/8 extracting info from DOM elements, using them to do something else.
 5/9 Pass by reference vs pass by value in Javascript is inconsistent
 5/10 NODEJS emitters, object constructors
+5/11 fourier transform, factoring, modulo (math), Shor's algorithm
