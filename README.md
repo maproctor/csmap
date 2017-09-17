@@ -16,3 +16,7 @@ http://www.programmerinterview.com/
 https://www.google.com/search?q=codeacademy&oq=codeaca&aqs=chrome.1.69i57j69i59.4495j0j4&sourceid=chrome&ie=UTF-8
 
 https://www.pluralsight.com/blog/software-development/best-developer-certifications
+
+https://linuxjourney.com/
+
+https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223?l=lCnp5kIy_5104984382
